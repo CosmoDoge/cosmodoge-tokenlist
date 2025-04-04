@@ -1,0 +1,21 @@
+{
+  "name": "CosmoDoge Token List",
+  "logoURI": "https://raw.githubusercontent.com/CosmoDoge/cosmodoge-tokenlist/main/logo.png",
+  "keywords": ["cosmodoge", "tokenlist", "bep20"],
+  "timestamp": "2025-04-04T08:00:00+00:00",
+  "tokens": [
+    {
+      "name": "CosmoDoge",
+      "symbol": "CDOGE",
+      "address": "0x5dE5281305992d3552a45AD8BccA7BdF84AcD3A",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/CosmoDoge/cosmodoge-tokenlist/main/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
